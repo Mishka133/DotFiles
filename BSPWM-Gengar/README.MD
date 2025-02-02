@@ -1,6 +1,6 @@
 ### README ###
 
-##How to use##
+## How to use ##
 
 Each folder is a dependency for what i've used. i dont have time to write out everything so use your noodle on how to get them to work.
 
